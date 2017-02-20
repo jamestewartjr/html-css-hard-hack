@@ -5,6 +5,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: normal;  
+}
+
+a {
+  text-decoration: none;
 }
 
 h1 {
@@ -20,5 +25,5 @@ ul {
 }
 
 ol {
-  list-style-type: lower-roman;
+  list-style-type: lower-alpha;
 }
